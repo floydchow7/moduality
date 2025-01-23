@@ -1,0 +1,12 @@
+Variable,Coef.,Std.Err.,t-Stat,P>|t|,Significance
+const,15452.8952,28491.6151,0.5424,0.5887,
+creativity,2452.5519,1787.1247,1.3723,0.1729,
+future-orientation,-3281.3804,3015.2594,-1.0883,0.2789,
+self-confidence,4701.2842,2854.8324,1.6468,0.1026,
+enthusiasm,-3566.4442,2965.3014,-1.2027,0.2318,
+trustworthiness,-1781.4609,1192.4915,-1.4939,0.1382,
+proactive-personality,-1074.0696,2417.9384,-0.4442,0.6578,
+num_founders,842.4417,2451.6531,0.3436,0.7318,
+Priorsharedexperience,-4335.7482,8114.6852,-0.5343,0.5942,
+Industryexperience,4115.8319,5603.4708,0.7345,0.4643,
+educationalqualification,4732.4773,2203.6022,2.1476,0.034,**

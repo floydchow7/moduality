@@ -1,0 +1,6 @@
+Variable,Coef.,Std.Err.,t-Stat,P>|t|,Significance
+const,13145.9307,4322.9186,3.041,0.0029,***
+num_founders,1447.3241,2444.7254,0.592,0.555,
+Priorsharedexperience,-1762.6033,8128.0453,-0.2169,0.8287,
+Industryexperience,5134.2715,5562.623,0.923,0.358,
+educationalqualification,5291.3242,2207.6905,2.3968,0.0182,**

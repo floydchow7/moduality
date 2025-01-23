@@ -1,0 +1,8 @@
+Variable,Coef.,Std.Err.,t-Stat,P>|t|,Significance
+const,16506.9046,28335.8123,0.5825,0.5614,
+creativity,2394.5678,1771.2579,1.3519,0.1792,
+future-orientation,-3585.8829,3005.6347,-1.1931,0.2354,
+self-confidence,5640.8536,2813.6711,2.0048,0.0474,**
+enthusiasm,-4032.2809,2929.1062,-1.3766,0.1714,
+trustworthiness,-1526.3868,1186.422,-1.2865,0.201,
+proactive-personality,-1222.2715,2389.6869,-0.5115,0.61,
